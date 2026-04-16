@@ -7,12 +7,13 @@ Als je niet voldoet aan de onderstaande policies kan je account verwijderd worde
 Je mag een account hebben binnen de github organisatie:
 - Je naam en achternaam of werkmail bekend zijn. **Als je deze informatie niet publiekelijk wilt delen via je account zie "Anoniem blijven?"**
 <img width="512" height="341" alt="afbeelding" src="https://github.com/user-attachments/assets/7f2d4964-216a-481d-b414-478cc3fafc54" />
+
 - Je onderdeel bent van een team/groep. 
 - Je regelmatig actief blijft
 
 **TODO: De user policies moeten nog precies gedefinieerd worden!**
 #### Anoniem blijven?
-Wil je anoniem blijven buiten de Simac-IT-NL organisatie met je account dan kun je in je team repository de teamleden benoemen.
+Wil je anoniem blijven buiten de Simac-IT-NL organisatie met je account dan kun je in je team repository de teamleden benoemen. Zie [voorbeeld repo](https://github.com/Simac-IT-NL/team_act)
   <img width="962" height="790" alt="afbeelding" src="https://github.com/user-attachments/assets/b48618c5-de7e-4119-87bf-d4f72f890e01" />
   
 ### Copilot Seat policy
